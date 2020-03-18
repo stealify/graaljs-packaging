@@ -1,0 +1,27 @@
+{
+  "name": "graaljs",
+  "version": "0.0.0-pre1",
+  "description": "A ECMAScript 2019 compliant Javascript implementation built on GraalVM. With polyglot language interoperability support. Best used with https://github.com/stealify/stealify Standards for Software Encapsulation.",
+  "main": "install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stealify/graaljs-packaging.git"
+  },
+  "keywords": [
+    "graaljs",
+    "graalvm",
+    "graal",
+    "truffle",
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Frank Lemanschik <frank@dspeed.eu>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stealify/graaljs-packaging/issues"
+  },
+  "homepage": "https://github.com/stealify/graaljs-packaging#readme"
+}
